@@ -1,3 +1,4 @@
 Notas agregadas desde la primera copia (simulación de otra computadora)
 Línea agregada desde la primera copia (Ejercicio 6)
 Línea agregada desde la segunda copia (provocando conflicto)
+Cambio FINAL desde primera copia para generar conflicto
